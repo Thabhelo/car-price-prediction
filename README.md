@@ -61,10 +61,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 git clone https://github.com/yourusername/car-price-prediction.git
 ```
 ```bash
-bash cd car-price-prediction
+cd car-price-prediction
 ```
 ```bash
-bash python -m venv envsource env/bin/activate # On Windows use \`env\\Scripts\\activate\`
+python -m venv envsource env/bin/activate # On Windows use \`env\\Scripts\\activate\`
 ```
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
